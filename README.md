@@ -18,7 +18,7 @@ We use a simple grid search scheme to optimize hyper parameters that make the cr
 
 In order to run the program properly, the user need to install python software.
 
-The python library including numpy, keras, pandas, tensorflow and matplotlib are also requir to install.
+The libraries of python including numpy, keras, pandas, tensorflow and matplotlib are also requir to install.
 
 Before running the programms, all the files should be downloaded.
 
