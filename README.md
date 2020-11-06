@@ -1,4 +1,4 @@
-# CNNAthUbi: ubiquitination site prediction model for Arabidopsis Thaliana
+# CNNAthUbi: ubiquitination site prediction for Arabidopsis Thaliana
 
 This is a project for predicting ubiquitination sites in Arabidopsis Thaliana using convolutional neural networks (CNNs).
 
