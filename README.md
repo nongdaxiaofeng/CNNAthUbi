@@ -10,6 +10,8 @@ aaindex31 is the file of 31 amino acid properties.
 
 pred_site_property.zip and pred_site_binary.zip are the files of predicted ubiquitination sites in Arabidopsis by CNN_Binary and CNN_Property.
 
+The two files fpr_tpr_thr_binary and fpr_tpr_thr_property list the prediction thresholds, true positive rates (sensitivity), and false positive rates in five-fold cross-validation for CNN_Binary and CNN_Property respectively.
+
 AraUbiSite is a previously developed ubiquitination site prediction tool for A. thaliana. AraUbiSite_cv_score.txt and AraUbiSite_ind_score.txt are files of prediction scores in five-fold cross-validation and independent test, which are provided by its webserver.
 
 cv_ind_test.py performs five-fold cross validation and independent test for CNN_Binary and CNN_Property and plot ROC curves of them and AraUbiSite.
